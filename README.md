@@ -14,8 +14,6 @@ NUS ME5413 Autonomous Mobile Robotics Planning Project
 ![cover_image](src/me5413_world/media/rviz_overview.png)
 
 ## Modification
-> Authors: [YinJiaju]
-
 
 This project utilized two algorithms, Pure Pursuit and LQR. Switching between them can be achieved by substituting the "path_tracker_node". 
 
